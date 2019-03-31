@@ -1,8 +1,6 @@
 # NetLogo_Calculator
 IntroCS 2017-2018 Fall Semester Final Project
 
-# RIPOFF TI-84
-
 ## WHAT IS IT?
 
 This model recreates a graphing calculator in its abilities to graph functions and its abilities to report certain properties of the graph of a function. 
