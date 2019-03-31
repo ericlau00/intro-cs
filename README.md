@@ -9,8 +9,6 @@ This model recreates a graphing calculator in its abilities to graph functions a
 
 ## INTRODUCTION
 
-![alt text](https://education.ti.com/-/media/images/ti-education/us/product-details/84-plus-se/product-key-84-plus-se.png?rev=1b0c1605-0e32-468b-9f38-2acfcaf009d1&h=531&w=250&la=en&hash=FB520B0F597E8437309EFD1B9761B0916A878DC3)
-
 THIS IS A TI-84 GRAPHING CALCULATOR
 
 ## HOW IT WORKS
