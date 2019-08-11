@@ -1,0 +1,13 @@
+name of landmark,address_true?,address,img,district
+Statue of Liberty,FALSE,,liberty.jpg,Liberty Island Historic District
+15 Washington Mews,TRUE,15 Washington Mews New York NY 10003,15wmews.jpg,Greenwich Village Historic District
+14 Washington Mews,TRUE,14 Washington Mews New York NY 10003,14wmews.jpg,Greenwich Village Historic District
+404 Riverside Dr,TRUE,303 Riverside Drive New York NY 10025,404riverside.jpg,Upper West Side/Central Park West Historic District
+Century Theater,FALSE,,century.jpg,demolished
+Palace Theater,TRUE,1564 Broadway New York NY 10036,palace.jpg,Individual landmark
+22 E 94 St,TRUE,22 E 94th Street New York NY 10128,221e94.jpg,Carnegie Hill Historic District
+326 Decatur St,TRUE,326 Decatur Street Brooklyn NY 11233,326decatur.jpg,Bedford-Stuyvesant Historic District
+5960 Amboy Rd,TRUE,5960 Amboy Road Staten Island NY 10039,5960amboy.jpg,Amboy Road Historic District
+488 12 St,TRUE,488 12th Street Brooklyn NY 11215,48812bklyn.jpg,Park Slope Historic District
+The Hubert,TRUE,7 Hubert Street New York NY 10013,thehubert.jpg,Tribeca West Historic District
+Ellington Hotel,TRUE,610 W 111th Street New York NY 10025,610w111.jpg,Morningside Heights Historic District
