@@ -1,0 +1,87 @@
+.main {
+	border: 1px solid black;
+	border-collapse: collapse;
+	text-align: center;
+	padding: 10px;
+}
+.righttable {
+	padding-right: 50px;
+}
+body {
+	font-family: "Century Gothic" ,"Arial";
+}
+h1, h3 {
+	text-align:center;
+    padding: 20px;
+    background-color: #2E86F0;
+    margin: 20px 150px 5px 150px;
+    border-radius: 45px;
+    color: white;
+}
+h4 { 
+	text-align:center;
+	padding: 10px;
+	background-color: #2E86F0;
+	margin: 20px 200px 20px 200px;
+	border-radius: 45px;
+    color: white;
+}
+
+input[type="submit"] {
+	background-color: #2E86C1;
+	padding: 10px;
+	font-family: "Century Gothic", "Arial";
+	font-weight: bold;
+	border-radius: 20px;
+}
+
+input[type="submit"]:hover {
+	cursor: pointer;
+}
+
+input[type="checkbox"]:hover {
+	cursor: pointer;
+}
+
+select, option {
+	font-family: "Century Gothic", "Arial";
+}
+
+input[type="text"] {
+	font-family: "Century Gothic", "Arial";
+	font-weight: bold;
+}	
+
+.list {
+	padding-left: 200px;
+	margin-right: 200px;
+}
+
+input[name="landmark"] {
+	color: #964B00;
+}
+
+a {
+	text-decoration: none;
+	color: #000000;
+	text-align: center;
+	padding: 20px;
+	background-color: #2ECC71;
+	border-radius: 45px;
+	font-weight: bold;
+	border-style: solid;
+	border-color: #000000;
+}
+
+
+th {
+	background-color: #2E86F0;
+	padding: 10px;
+	text-align: center;
+    color: white;
+}
+
+.more {
+	padding: 10px;
+	text-align: center;
+}
